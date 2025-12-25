@@ -20,10 +20,13 @@
 ---
 
 ## 🛠 Kỹ năng
-- HTML, CSS, JavaScript
-- React, Node.js
-- PHP (Laravel)
-- Git, GitHub, MongoDB
+🎨 Frontend: ReactJS, HTML5, CSS3, JavaScript, TailwindCSS, Bootstrap, jQuery  
+⚙️ Backend: NodeJS, PHP, Python  
+📱 Mobile: Android (Java)  
+🗄️ Database: MongoDB, MySQL, Firebase  
+🔧 Tools: Git, GitHub  
+🌐 CMS: WordPress
+
   
 
 ---
@@ -31,3 +34,4 @@
 ## 📫 Liên hệ
 - GitHub: https://github.com/nyhht
 - SDT: 0866196037
+- Gmail: nguyenhieu26hsht@gmail.com
