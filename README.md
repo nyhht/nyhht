@@ -14,11 +14,6 @@
 
 ---
 
-### 👀 Preview Portfolio
-![Portfolio Preview](https://raw.githubusercontent.com/nyhht/my-portfolio-final/main/preview.png)
-
----
-
 ## 🛠 Kỹ năng
 🎨 Frontend: ReactJS, HTML5, CSS3, JavaScript, TailwindCSS, Bootstrap, jQuery  
 ⚙️ Backend: NodeJS, PHP, Python  
@@ -26,8 +21,6 @@
 🗄️ Database: MongoDB, MySQL, Firebase  
 🔧 Tools: Git, GitHub  
 🌐 CMS: WordPress
-
-  
 
 ---
 
